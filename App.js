@@ -9,7 +9,7 @@ import Home from './screens/Home/Home';
 import Inicio from './screens/Inicio/Inicio';
 import Map from './screens/Map';
 import Ponto from './screens/Ponto';
-import Login from './screens/Login';
+import Login from './screens/Login/Login';
 import Cadastro from './screens/CreateUser/CreateUser';
 import Perfil from './screens/Perfil';
 const store = createStore(reducer);
