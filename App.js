@@ -11,7 +11,7 @@ import Map from './screens/Map/Map';
 import Ponto from './screens/Ponto';
 import Login from './screens/Login/Login';
 import Cadastro from './screens/CreateUser/CreateUser';
-import Perfil from './screens/Perfil';
+import Perfil from './screens/Perfil/Perfil';
 const store = createStore(reducer);
 
 const Stack = createStackNavigator();
