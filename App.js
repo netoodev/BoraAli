@@ -7,7 +7,7 @@ import { Provider } from 'react-redux';
 import { reducer } from './reducers/reducer';
 import Home from './screens/Home/Home';
 import Inicio from './screens/Inicio/Inicio';
-import Map from './screens/Map';
+import Map from './screens/Map/Map';
 import Ponto from './screens/Ponto';
 import Login from './screens/Login/Login';
 import Cadastro from './screens/CreateUser/CreateUser';
